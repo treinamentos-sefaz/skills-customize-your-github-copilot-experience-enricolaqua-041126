@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-pytest",
+      "title": "Testing FastAPI Endpoints with Pytest",
+      "description": "Validate FastAPI APIs with Pytest using success and error-case endpoint tests.",
+      "path": "assignments/testing-fastapi-pytest",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter API Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Starter Tests",
+          "file": "starter-tests.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
